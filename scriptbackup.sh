@@ -2,8 +2,8 @@
 
 # database credentials
 DB_NAME="db_crud"
-DB_USER="destia"
-DB_PASS="123"
+DB_USER="destiaeka"
+DB_PASS="112233"
 BACKUP_DIR="/var/backup/mysql"
 DATE=$(date +%F)
 TIMESTAMP=$(date +%F_%H-%M)      
