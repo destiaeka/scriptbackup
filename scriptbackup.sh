@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # database credentials
-DB_NAME="db_crud"
+DB_NAME="curd"
 DB_USER="destiaeka"
 DB_PASS="112233"
 BACKUP_DIR="/var/backup/mysql"
